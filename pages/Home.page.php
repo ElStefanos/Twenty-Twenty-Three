@@ -98,9 +98,8 @@
                 Make your website stand out with the Twent-Twenty-Three theme.
             </h3>
             <div class="wrapper">
-                <a href="./awt-admin/?page=Customize" class='block'><button>
-                        Start Now
-                    </button></a>
+                <a href="./awt-admin/?page=Customize" class='block'>
+                        Start Now</a>
             </div>
         </section>
     </section>
