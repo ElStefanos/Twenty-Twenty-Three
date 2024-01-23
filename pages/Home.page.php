@@ -1,9 +1,9 @@
 
     <section class="pageSection">
-        <?php $theme->loadCSS('/css/home.css'); ?>
-        <?php $theme->loadCSS('/css/startNow.css'); ?>
-        <?php $theme->loadCSS('/css/presentation.css'); ?>
-        <?php $theme->loadCSS('/css/features.css'); ?>
+        <?php echo $theme->loadCSS('/css/home.css'); ?>
+        <?php echo $theme->loadCSS('/css/startNow.css'); ?>
+        <?php echo $theme->loadCSS('/css/presentation.css'); ?>
+        <?php echo $theme->loadCSS('/css/features.css'); ?>
         <section class="landing block">
             <div class="container block">
                 <div class="heading-container block">
